@@ -1,0 +1,4 @@
+*.rtf linguist-vendored
+*.scss linguist-vendored
+*.cginc linguist-vendored
+*.h linguist-vendored
